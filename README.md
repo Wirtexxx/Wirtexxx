@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wirtexx&theme=tokyonight&hide_border=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+
 <!--
 **Wirtexxx/Wirtexxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
