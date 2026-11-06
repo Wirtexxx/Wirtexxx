@@ -4,7 +4,7 @@
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/divider-sheet-light.svg"><img src="assets/divider-sheet-dark.svg" alt="Character Sheet" width="100%"></picture>
 
-<img src="assets/stats.svg" alt="911 contributions and 95 active days in the past 12 months, 7 public repos" width="100%">
+<img src="assets/stats.svg" alt="911 contributions and 94 active days in the past 12 months, 7 public repos" width="100%">
 
 <img src="assets/languages.svg" alt="Languages by code size" width="100%">
 
